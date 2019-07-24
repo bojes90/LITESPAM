@@ -15,7 +15,7 @@ sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
 echo "\033[35;1m2.""\033[36;1mTelkomsel"
-echo "\033[35;1m3.""\033[36;1mGrab"
+echo "\033[35;1m3.""\033[36;1mBRImo"
 echo "\033[35;1m4.""\033[36;1mTokopedia"
 echo "\033[35;1m5.""\033[36;1mCodaShop"
 echo "\033[35;1m6.""\033[36;1mSurveyon"
@@ -59,11 +59,11 @@ if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
 echo "\033[36;1m"
-figlet "Grab"
+figlet "BRImo"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mBank BRI"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
